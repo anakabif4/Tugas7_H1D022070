@@ -21,3 +21,7 @@
    > Jika pengguna memilih logout, aplikasi akan menghapus token dan data pengguna dari Preferences dan mengubah status autentikasi menjadi false.
    
    > Setelah logout pengguna diarahkan kembali ke halaman login.
+## Hasna Mumtazah Khairunnisa | H1D022070 | Shift E
+![Halaman Login](1.png)
+![Form Halaman Login terisi](2.png)
+![Halaman Home](3.png)
